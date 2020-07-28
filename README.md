@@ -1,16 +1,18 @@
+<br />
+
 > <b><i>읽기 편한 코드, 있어야할 위치에 있는 코드를 작성하고 싶습니다.</i></b>
 
 ### Front-end Developer 👋
 
 안녕하세요, 프론트엔드 개발자 정규현입니다.
 
-<hr />
+
 
 ### Hobby 😍
 블로그에 글을 쓰면서 생각을 정리하는 것을 좋아합니다. <br />
 <img src="https://user-images.githubusercontent.com/42884032/88673238-56e30300-d123-11ea-8158-6551f455f038.png" width="50%" />
 
-<hr />
+
 
 ### Interest & Skills 😎
 
