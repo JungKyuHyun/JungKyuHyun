@@ -2,7 +2,7 @@
 
 안녕하세요, 프론트엔드 개발자 정규현입니다.
 
-### 관심사 😎
+### Interest 😎
 
 [![TypeScript-web](https://img.shields.io/badge/TypeScript-web-007ACC.svg?logo=typescript)](https://www.typescriptlang.org/)
 [![React-web](https://img.shields.io/badge/React-hooks-61DAFB.svg?logo=react)](https://reactjs.org/)
