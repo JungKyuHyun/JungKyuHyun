@@ -10,7 +10,7 @@
 
 ### Hobby 😍
 블로그에 글을 쓰면서 생각을 정리하는 것을 좋아합니다. <br />
-<a href="https://code-masterjung.tistory.com/">
+<a href="https://code-masterjung.tistory.com" target="_blank" >
   <img src="https://user-images.githubusercontent.com/42884032/88673238-56e30300-d123-11ea-8158-6551f455f038.png" width="50%" />
 </a>
 
