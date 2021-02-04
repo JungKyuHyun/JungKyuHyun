@@ -21,6 +21,8 @@
 [![TypeScript-web](https://img.shields.io/badge/TypeScript-web-007ACC.svg?logo=typescript)](https://www.typescriptlang.org/)
 [![React-lib](https://img.shields.io/badge/React-hooks-61DAFB.svg?logo=react)](https://reactjs.org/)
 [![Javascript-language](https://img.shields.io/badge/Javascript-language-F7DF1E.svg?logo=javascript)](https://www.ecma-international.org/publications/standards/Ecma-262.htm)
+[![next-dot-js](https://img.shields.io/badge/nextjs-ssr-000000.svg?logo=vercel)](https://nextjs.org/)
+[![three-js](https://img.shields.io/badge/threejs-webgl-000000.svg?logo=webgl)](https://threejs.org/)
 [![graphql-language](https://img.shields.io/badge/graphql-language-E10098.svg?logo=graphql)](https://graphql.org/)
 [![apollographql-state](https://img.shields.io/badge/apollo-graphql-311C87.svg?logo=apollo-graphql)](https://www.apollographql.com/)
 [![styled-components-style](https://img.shields.io/badge/%F0%9F%92%85%20styled--components-CssInJs-orange.svg)](https://github.com/styled-components/styled-components)
@@ -30,3 +32,10 @@
 [![MongoDB-db](https://img.shields.io/badge/MongoDB-Database-47A248.svg?logo=mongodb)](https://www.mongodb.com/)
 [![I-love-VSCode](https://img.shields.io/badge/I%20love-VSCode-007ACC.svg?logo=visual-studio-code)](https://code.visualstudio.com/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-181717.svg?logo=github)](https://github.com/JungKyuHyun)
+
+
+
+### Connect with me  📞
+
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:ajdkfl6445@gmail.com) 
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/kyu-hyun/)
