@@ -2,13 +2,13 @@
 
 > <b><i>제 가치를 제품(Product)으로 증명하고 ,세상에 있는 문제를 개발로 해결하고 싶습니다.</i></b>
 
-### Front-end Developer 👋
+### 👋 Front-end Developer 
 
 안녕하세요, 프론트엔드 개발자 정규현입니다.
 
 
 
-### Hobby 😍
+### 😍 Hobby 
 블로그에 글을 쓰면서 생각을 정리하는 것을 좋아합니다. <br />
 <a href="https://code-masterjung.tistory.com" target="_blank" >
   <img src="https://user-images.githubusercontent.com/42884032/88673238-56e30300-d123-11ea-8158-6551f455f038.png" width="50%" />
@@ -16,7 +16,7 @@
 
 
 
-### Interest & Skills 😎
+### 😎 Interest & Skills 
 
 [![TypeScript-web](https://img.shields.io/badge/TypeScript-web-007ACC.svg?logo=typescript)](https://www.typescriptlang.org/)
 [![React-lib](https://img.shields.io/badge/React-hooks-61DAFB.svg?logo=react)](https://reactjs.org/)
@@ -35,7 +35,7 @@
 
 
 
-### Connect with me  📞
+### 📞 Connect with me  
 
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:ajdkfl6445@gmail.com) 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-LinkedIn-black?color=14171A&labelColor=0077b5&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/kyu-hyun/)
