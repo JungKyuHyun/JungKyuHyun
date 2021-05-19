@@ -6,7 +6,7 @@
 
 
 ### 😍  Hobby 
-[블로그](https://code-masterjung.tistory.com)에 글을 쓰면서 생각을 정리하는 것을 좋아합니다. <br />
+[블로그](https://code-masterjung.tistory.com), [깃북](https://ajdkfl6445.gitbook.io/study/)에 글을 쓰면서 생각을 정리하는 것을 좋아합니다. <br />
 
 ### 😎  Interest & Skills 
 
