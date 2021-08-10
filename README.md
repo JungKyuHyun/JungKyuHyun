@@ -1,3 +1,5 @@
+![Counter](https://visitor-badge.glitch.me/badge?page_id=JungKyuHyun.visitor-badge)
+
 ### 👋  Front-end Developer 
 
 안녕하세요, 프론트엔드 개발자 정규현입니다.
