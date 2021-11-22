@@ -13,9 +13,9 @@
 
 ### 😎  Interest & Skills 
 
-[![TypeScript-web](https://img.shields.io/badge/TypeScript-web-007ACC.svg?logo=typescript)](https://www.typescriptlang.org/)
-[![React-lib](https://img.shields.io/badge/React-hooks-61DAFB.svg?logo=react)](https://reactjs.org/)
-[![React-native-lib](https://img.shields.io/badge/React-Native-61DAFB.svg?logo=react)](https://reactnative.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-language-007ACC.svg?logo=typescript)](https://www.typescriptlang.org/)
+[![React-lib](https://img.shields.io/badge/React%20and%20hooks-web-61DAFB.svg?logo=react)](https://reactjs.org/)
+[![React-native-lib](https://img.shields.io/badge/React%20Native-mobile-61DAFB.svg?logo=react)](https://reactnative.dev/)
 [![Javascript-language](https://img.shields.io/badge/Javascript-language-F7DF1E.svg?logo=javascript)](https://www.ecma-international.org/publications/standards/Ecma-262.htm)
 [![next-dot-js](https://img.shields.io/badge/nextjs-ssr-000000.svg?logo=vercel)](https://nextjs.org/)
 [![three-js](https://img.shields.io/badge/threejs-webgl-000000.svg?logo=webgl)](https://threejs.org/)
